@@ -1,2 +1,2 @@
-Currency exchange
+Currency exchange in Django
  
