@@ -1,5 +1,5 @@
 Currency exchange Application using Django
- 
+
 This web application Live streams the currency rates from sbi canada website.
 
 Steps to run the project: 
